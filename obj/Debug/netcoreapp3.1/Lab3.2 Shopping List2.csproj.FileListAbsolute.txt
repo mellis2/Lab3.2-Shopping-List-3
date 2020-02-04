@@ -1,0 +1,22 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\bin\Debug\netcoreapp3.1\Lab3.2 Shopping List2.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week3\Lab3.2 Shopping List2\obj\Debug\netcoreapp3.1\Lab3.2 Shopping List2.pdb
